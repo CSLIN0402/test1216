@@ -15,7 +15,7 @@ namespace test1216_git {
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            button1.Text = "ok!";
+            button1.Text = "ok!!!!";
         }
     }
 }
