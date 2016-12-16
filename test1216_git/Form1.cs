@@ -13,5 +13,9 @@ namespace test1216_git {
         public Form1() {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e) {
+            button1.Text = "ok!";
+        }
     }
 }
